@@ -1,0 +1,1 @@
+hi today i m learning how to commit in git in order to learn for project 
